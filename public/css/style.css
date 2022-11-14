@@ -2458,7 +2458,8 @@ h3 {
 
 /* line 1, C:/Users/SPN Graphics/Desktop/CL September/210 Medical/HTML/scss/_bradcam.scss */
 .breadcam_bg {
-  background-image: url(../img/banner/bradcam.png);
+  /* background-image: url(../img/banner/bradcam_new_2.png); */
+  background-image: url(../img/best-laboratory-in-vadodara-click2cure.jpg);
 }
 
 /* line 4, C:/Users/SPN Graphics/Desktop/CL September/210 Medical/HTML/scss/_bradcam.scss */
@@ -2469,6 +2470,10 @@ h3 {
 /* line 7, C:/Users/SPN Graphics/Desktop/CL September/210 Medical/HTML/scss/_bradcam.scss */
 .breadcam_bg_2 {
   background-image: url(../img/banner/bradcam3.png);
+}
+
+.breadcam_bg_3 {
+  background-image: url(../img/banner/blod.jpg);
 }
 
 /* line 10, C:/Users/SPN Graphics/Desktop/CL September/210 Medical/HTML/scss/_bradcam.scss */

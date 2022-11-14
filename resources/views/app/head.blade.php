@@ -5,14 +5,8 @@
                 <div class="row">
                     <div class="col-xl-4 col-md-4 col-sm-12">
                         <div class="social_media_links">
-                            <a href="#">
-                                <i class="fa fa-linkedin"></i>
-                            </a>
-                            <a href="#">
-                                <i class="fa fa-facebook"></i>
-                            </a>
-                            <a href="#">
-                                <i class="fa fa-google-plus"></i>
+                            <a href="https://www.instagram.com/labgalenotinaquillo/" target="_blank">
+                                <i class="fa fa-instagram"></i>
                             </a>
                         </div>
                     </div>
