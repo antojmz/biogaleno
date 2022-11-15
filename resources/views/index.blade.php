@@ -3,31 +3,18 @@
     <!-- slider_area_start -->
     <div class="slider_area">
         <div class="slider_active owl-carousel">
-            <div class="single_slider  d-flex align-items-center slider_bg_2">
-                <div class="container">
-                    <div class="row">
-                        <div class="col-xl-12">
-                            <div class="slider_text ">
-                                <h3> <span>Health care</span> <br>
-                                    For Hole Family </h3>
-                                <p>In healthcare sector, service excellence is the facility of <br> the hospital as
-                                    healthcare service provider to consistently.</p>
-                                <a href="{{ url('/services') }}" class="boxed-btn3">Chequea Nuestros Servicios</a>
-                            </div>
-                        </div>
-                    </div>
-                </div>
-            </div>
             <div class="single_slider  d-flex align-items-center slider_bg_1">
                 <div class="container">
                     <div class="row">
                         <div class="col-xl-12">
                             <div class="slider_text ">
-                                <h3> <span>Health care</span> <br>
-                                    For Hole Family </h3>
+                                <h3> 
+                                    <span>Health care</span> <br>
+                                    For Hole Family 
+                                </h3>
                                 <p>
-                                    In healthcare sector, service excellence is the facility of <br> the hospital as
-                                    healthcare service provider to consistently.
+                                    In healthcare sector, service excellence is the facility of <br> 
+                                    the hospital as healthcare service provider to consistently.
                                 </p>
                                 <a href="{{ url('/services') }}" class="boxed-btn3">Chequea Nuestros Servicios</a>
                             </div>
@@ -40,8 +27,10 @@
                     <div class="row">
                         <div class="col-xl-12">
                             <div class="slider_text ">
-                                <h3> <span>Health care</span> <br>
-                                    For Hole Family </h3>
+                                <h3> 
+                                    <span>Health care</span> <br>
+                                    For Hole Family 
+                                </h3>
                                 <p>
                                     In healthcare sector, service excellence is the facility of <br> the hospital as
                                     healthcare service provider to consistently.
@@ -61,12 +50,12 @@
         <div class="container">
             <div class="row">
                 <div class="col-xl-6 col-lg-6">
-                    <div class="welcome_thumb">
+                    <div class="welcome_thumb mb-4">
                         <div class="thumb_1">
-                            <img src="{{ asset('img/about/1.png') }}" alt="">
+                            <img src="{{ asset('img/about/prod_187.jpg') }}" alt="">
                         </div>
                         <div class="thumb_2">
-                            <img src="{{ asset('img/about/2.png') }}" alt="">
+                            <img src="{{ asset('img/about/prod_187.jpg') }}" alt="">
                         </div>
                     </div>
                 </div>

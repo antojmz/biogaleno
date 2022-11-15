@@ -82,7 +82,7 @@
 									<ul>
                                         <li>GLICEMIA</li>
                                         <li>GLICEMIA POST-PRANDIAL</li>
-                                        <li>PRUEBA DE TOLERANCIA ORAL DE GLICEMIA</li>
+                                        <li>PRUEBA DE TOLERANCIA ORAL DE GLUCOSA</li>
                                         <li>UREA</li>
                                         <li>CREATININA</li>
                                         <li>ACIDO URICO</li>
