@@ -108,7 +108,7 @@
                         </div>
                     </form>
                 </div>
-                <div class="col-lg-3 offset-lg-1">
+                <div class="col-lg-4">
                     <div class="media contact-info">
                         <span class="contact-info__icon"><i class="ti-home"></i></span>
                         <div class="media-body">
@@ -120,8 +120,10 @@
                         <span class="contact-info__icon"><i class="ti-tablet"></i></span>
                         <div class="media-body">
                             <h3>+58 414 5822005</h3>
-                            <p>Lunes a viernes de 7am a 3pm</p>
-                            <p>Sábados de 7am a 12pm</p>
+                            <p>
+                                Lunes a viernes de 7am a 3pm <br>
+                                Sábados de 7am a 12pm
+                            </p>
                         </div>
                     </div>
                     <div class="media contact-info">
