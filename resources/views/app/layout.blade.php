@@ -35,6 +35,41 @@
                 font-family: 'Nunito', sans-serif;
             }
         </style>
+
+        <script type="text/javascript">
+
+            function callbackThen(response){
+
+            // read HTTP status
+
+            console.log(response.status);
+
+            // read Promise object
+
+            response.json().then(function(data){
+
+            console.log(data);
+
+            });
+
+            }
+
+            function callbackCatch(error){
+
+            console.error('Error:', error)
+
+            }
+
+        </script>
+
+        {!! htmlScriptTagJsApi([
+
+        'callback_then' => 'callbackThen',
+
+        'callback_catch' => 'callbackCatch'
+
+        ]) !!}
+        
     </head>
     <body class="antialiased">
         @include('app.head')
@@ -44,6 +79,7 @@
         @include('app.footer')
 
         <!-- JS here -->
+        <script src="https://www.google.com/recaptcha/api.js"></script>
         <script src="{{ asset('js/vendor/modernizr-3.5.0.min.js') }}"></script>
         <script src="{{ asset('js/vendor/jquery-1.12.4.min.js') }}"></script>
         <script src="{{ asset('js/popper.min.js') }}"></script>

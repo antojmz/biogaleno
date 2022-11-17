@@ -15,23 +15,40 @@
                             <!-- </a> -->
                         </div>
                         <p>
-                            Firmament morning sixth subdue darkness 
-                            creeping gathered divide.
+                            Buscamos también en Instagram o 
+                            escríbenos por Whatsapp estamos atentos 
+                            para darte orientación, presupuestos y 
+                            responder cualquier duda.
                         </p>
-                        <div class="socail_links">
-                            <ul>
-                                <li>
-                                    <a href="https://www.instagram.com/labgalenotinaquillo/" target="_blank">
-                                        <i class="fa fa-instagram"></i>
-                                    </a>
-                                </li>
-                            </ul>
+                        <div class="row">
+                            <div class="col-2">
+                                <div class="socail_links">
+                                    <ul>
+                                        <li>
+                                            <a href="https://www.instagram.com/labgalenotinaquillo/" target="_blank" title="@labgalenotinaquillo">
+                                                <i class="fa fa-instagram"></i>
+                                            </a>
+                                        </li>
+                                    </ul>
+                                </div>
+                            </div>
+                            <div class="col-6">
+                                <div class="socail_links-title">
+                                    <ul>
+                                        <li>
+                                            <a href="https://www.instagram.com/labgalenotinaquillo/">
+                                                @labgalenotinaquillo
+                                            </a>
+                                        </li>
+                                    </ul>
+                                </div>
+                            </div>
                         </div>
 
                     </div>
                 </div>
-                <div class="col-xl-2 offset-xl-1 col-md-6 col-lg-3">
-                    <div class="footer_widget">
+                <div class="col-xl-1 offset-xl-1 col-md-4 col-lg-2">
+                    <!-- <div class="footer_widget">
                         <h3 class="footer_title">
                                 Departments
                         </h3>
@@ -43,12 +60,12 @@
                             <li><a href="#">Dental</a></li>
                         </ul>
 
-                    </div>
+                    </div> -->
                 </div>
-                <div class="col-xl-2 col-md-6 col-lg-2">
+                <div class="col-xl-3 col-md-8 col-lg-3">
                     <div class="footer_widget">
                         <h3 class="footer_title">
-                                Useful Links
+                            Enlaces de interés
                         </h3>
                         <ul>
                             <li><a href="{{ url('/') }}">Inicio</a></li>

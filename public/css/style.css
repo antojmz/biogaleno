@@ -2424,10 +2424,17 @@ h3 {
   margin-top: 47px;
 }
 
+.footer .socail_links-title {
+  margin-top: 47px;
+}
+
 @media (max-width: 767px) {
   /* line 141, C:/Users/SPN Graphics/Desktop/CL September/210 Medical/HTML/scss/_footer.scss */
   .footer .socail_links {
     margin-top: 30px;
+  }
+  .footer .socail_links-title {
+    margin-top: 33px;
   }
 }
 
