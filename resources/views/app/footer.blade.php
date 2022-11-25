@@ -15,7 +15,7 @@
                             <!-- </a> -->
                         </div>
                         <p>
-                            Buscamos también en Instagram o 
+                            Búscanos también en Instagram o 
                             escríbenos por Whatsapp estamos atentos 
                             para darte orientación, presupuestos y 
                             responder cualquier duda.
